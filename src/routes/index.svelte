@@ -39,7 +39,7 @@
 <h1>Great success!</h1>
 
 <figure>
-	<img alt='Borat' src='great-success.png'>
+	<img alt='Cat' src='https://previews.123rf.com/images/helga1981/helga19811605/helga1981160500231/56492354-cat-showing-thumb-up-and-welcomes-isolate-on-white-background.jpg'>
 	<figcaption>HIGH FIVE!</figcaption>
 </figure>
 
